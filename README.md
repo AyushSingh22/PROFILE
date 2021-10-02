@@ -4,7 +4,7 @@ My readme profile
 I am a computer science undergraduate student, a tech enthusiast trying to serve the world
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSingh22&label=Profile views&color=green&style=plastic" alt="AyushSingh22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Riyakumariopscoder&label=Profile views&color=green&style=plastic" alt="Riyakumariopscoder" /> </p>
 <a href="https://twitter.com/market_techtalk">
   <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
